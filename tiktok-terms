@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Placeholder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #111;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service - Placeholder</h1>
+    <p>
+        This is a placeholder Terms of Service page for testing purposes only. 
+        This page exists to satisfy TikTok Developer requirements during application setup.
+    </p>
+    <p>
+        No real services are provided, and no user data is collected or processed by this placeholder page.
+    </p>
+    <p>
+        If you are seeing this page, it means the TikTok API integration is in development and not intended for public use.
+    </p>
+</body>
+</html>
